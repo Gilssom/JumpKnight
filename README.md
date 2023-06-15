@@ -1,9 +1,9 @@
 # JumpKnight
- Creater : Gil Yong Hyun / 99.12.28
- 제작 기간 : 6월 13일 ~ 6월 15일
- 개발 엔진 : Unity3D
+ * Creater : Gil Yong Hyun / 99.12.28
+ * 제작 기간 : 6월 13일 ~ 6월 15일
+ * 개발 엔진 : Unity3D
 
- 참고 레퍼런스 게임 : Royal Blade
+ * 참고 레퍼런스 게임 : Royal Blade
 
 
  아쉬운 점 및 문제점
